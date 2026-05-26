@@ -55,5 +55,5 @@ Bem-vindo(a) ao meu GitHub! Sou um estudante de programação focado em evoluir 
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SEU_USUARIO_AQUI/count.svg" alt="Contador de Visitas" />
+  <img src="https://profile-counter.glitch.me/joaopaulo7319/count.svg" alt="Contador de Visitas" />
 </div>
