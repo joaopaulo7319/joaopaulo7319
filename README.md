@@ -1,32 +1,23 @@
-# 🏷️ Nome do Projeto
+# Olá! 👋 Sou de São Paulo e estou entrando no mundo da tecnologia!
 
-> Uma breve descrição (uma ou duas frases) sobre o que o seu projeto faz, qual problema ele resolve e por que ele existe.
+Bem-vindo(a) ao meu GitHub. Sou um(a) estudante de programação com foco em evoluir minhas habilidades todos os dias. Criei este espaço para documentar minha jornada de aprendizado e compartilhar minha evolução.
 
-## 🚀 Funcionalidades
+## 👨‍💻 Sobre mim
 
-* Liste aqui o que o seu software/script faz de principal.
-* Ex: Cadastro de usuários, integração com API de pagamentos, etc.
-* Seja direto e claro.
+* 📚 **Atualmente aprendendo:** JavaScript, HTML e CSS
+* 🎯 **Próximos passos:** Construir uma base sólida para criar meus primeiros projetos práticos.
+* ⚡ **Curiosidades:** Quando não estou estudando código, provavelmente estou ouvindo música ou estudando inglês
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 O que estou estudando no momento
 
-* [Linguagem/Framework A]
-* [Banco de Dados B]
-* [Ferramenta C]
+Aqui estão as tecnologias com as quais estou tendo meu primeiro contato:
 
-## ⚙️ Como Executar (Pré-requisitos)
+* Linguagem - JavaScript
+* Ferramenta 1 - Git e GitHub
+* Ferramenta 2 - CSS
+* Ferramenta 3 - HTML
 
-Instruções passo a passo para que outra pessoa consiga rodar o seu projeto localmente na máquina dela.
+## 📫 Como me encontrar
 
-```bash
-# Clone este repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
-# Acesse a pasta do projeto
-cd seu-repositorio
-
-# Instale as dependências
-npm install # ou pip install, maven, etc.
-
-# Execute a aplicação
-npm start
+* **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-a526b9269/
+* **E-mail:** joaopaulo7319@gmail.com
